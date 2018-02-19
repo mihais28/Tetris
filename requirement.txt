@@ -1,0 +1,8 @@
+ This file describes the Tetris project, containing the followings:
+- setting the canvas (height, width), menu
+- keys used
+- the objects: L, square, line, z, point, etc
+- rules of moving the objects
+- rules of losing, wining
+- rules of advancing (complete a line and disappear)
+- names of the libraries used, functions, constants
